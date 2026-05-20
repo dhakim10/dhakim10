@@ -46,6 +46,6 @@ Lightweight SOLIDWORKS design with autonomous maintenance logic and vibration an
 
 ## 📊 GitHub Stats
 
-![Ibrahim's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default)
+![Ibrahim's GitHub stats](https://github-readme-stats.vercel.app/api?username=dhakim10&show_icons=true&theme=default)
 
 *Open to internship and full-time opportunities in HVAC, mechanical design, renewable energy, and systems engineering.*
