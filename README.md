@@ -1,6 +1,6 @@
 # Hi, I'm Ibrahim Hakim 👋
 
-🎓 Mechanical Engineering student @ Istanbul Okan University
+🎓 Final-Year Mechanical Engineering student @ Istanbul Okan University
 🌍 Based in Istanbul, Turkey | From Burkina Faso  
 📧 dialloridwane@gmail.com | +90 506 626 7031  
 🔗 [LinkedIn](https://www.linkedin.com/in/dhakim10)
